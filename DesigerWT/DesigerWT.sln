@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesigerWT", "DesigerWT\DesigerWT.csproj", "{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Release|iPhone.Build.0 = Release|iPhone
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DFB99683-3DFF-42D8-BEA6-9E1B54D96362}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DesigerWT\DesigerWT.csproj
+	EndGlobalSection
+EndGlobal
